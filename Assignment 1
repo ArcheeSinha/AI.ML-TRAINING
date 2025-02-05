@@ -1,56 +1,66 @@
 # ASSIGNMENT 1
-1. Healthcare
-Use Case: Predicting disease outbreaks or diagnosing illnesses.
 
-Data Source:
-Electronic Health Records (EHRs).
-Wearable devices (heart rate, sleep patterns).
-Public health datasets (e.g., WHO, CDC).
+## 1. Healthcare
 
-Requirements:
-Clean, labeled medical data.
-Algorithms for classification/regression (e.g., Random Forest, Neural Networks).
-Compliance with privacy regulations (e.g., HIPAA, GDPR).
+### **Use Case:** Predicting disease outbreaks or diagnosing illnesses.
 
-Problem Statement:
-"How can we predict the likelihood of a patient developing a chronic disease (e.g., diabetes) based on their medical history and lifestyle data?"
+### **Data Source:**
+- Electronic Health Records (EHRs).
+- Wearable devices (heart rate, sleep patterns).
+- Public health datasets (e.g., WHO, CDC).
 
-2. Retail/E-commerce
-Use Case: Personalized product recommendations.
+### **Requirements:**
+- Clean, labeled medical data.
+- Algorithms for classification/regression (e.g., Random Forest, Neural Networks).
+- Compliance with privacy regulations (e.g., HIPAA, GDPR).
 
-Data Source:
-Customer purchase history.
-Browsing behaviour (clickstream data).
-Product catalogues and reviews.
+### **Problem Statement:**
+*"How can we predict the likelihood of a patient developing a chronic disease (e.g., diabetes) based on their medical history and lifestyle data?"*
 
-Requirements:
-Collaborative filtering or content-based recommendation algorithms.
-Real-time data processing capabilities.
+---
 
-Problem Statement:
-"How can we improve customer engagement by recommending products tailored to individual preferences and browsing behaviour?"
+## 2. Retail/E-commerce
 
-3. Finance
-Use Case: Fraud detection in transactions.
+### **Use Case:** Personalized product recommendations.
 
-Data Source:
-Transaction logs (credit/debit card usage).
-User behaviour patterns (login frequency, location).
-Historical fraud data.
+### **Data Source:**
+- Customer purchase history.
+- Browsing behaviour (clickstream data).
+- Product catalogues and reviews.
 
-Requirements:
-Real-time monitoring systems.
+### **Requirements:**
+- Collaborative filtering or content-based recommendation algorithms.
+- Real-time data processing capabilities.
 
-Problem Statement:
-"How can we identify and prevent fraudulent transactions in real-time while minimizing false positives?"
+### **Problem Statement:**
+*"How can we improve customer engagement by recommending products tailored to individual preferences and browsing behaviour?"*
 
-4. Energy
-Use Case: Forecasting energy demand.
+---
 
-Data Source:
-Historical energy consumption data.
-Weather data (temperature, humidity).
+## 3. Finance
 
-Problem Statement:
-"How can we accurately predict energy demand to optimize grid operations and reduce wastage?"
+### **Use Case:** Fraud detection in transactions.
 
+### **Data Source:**
+- Transaction logs (credit/debit card usage).
+- User behaviour patterns (login frequency, location).
+- Historical fraud data.
+
+### **Requirements:**
+- Real-time monitoring systems.
+
+### **Problem Statement:**
+*"How can we identify and prevent fraudulent transactions in real-time while minimizing false positives?"*
+
+---
+
+## 4. Energy
+
+### **Use Case:** Forecasting energy demand.
+
+### **Data Source:**
+- Historical energy consumption data.
+- Weather data (temperature, humidity).
+
+### **Problem Statement:**
+*"How can we accurately predict energy demand to optimize grid operations and reduce wastage?"*
